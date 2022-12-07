@@ -1,0 +1,1 @@
+> sometimes there are variables that can be either continuoous or discreet, either measure or dimension
